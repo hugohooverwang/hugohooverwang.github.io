@@ -2,10 +2,7 @@
 ◊(define h2-color "gray")
 ◊(define strong-color "blue")
 
-body, html {
-    height: 100%;
-    margin: 0;
-}
+@import url("base.css");
 
 h1 {
   background: ◊|h2-color|;
@@ -15,24 +12,6 @@ h1 {
 
 strong {
   color: ◊|strong-color|;
-}
-
-.parallax-top {
-    background-image: url('img_parallax-top.jpg');
-    height: 100%;
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-.parallax-bottom {
-    background-image: url('img_parallax-bottom.png');
-    height: 100%;
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
 }
 
 .bgimg-1, .bgimg-2, .bgimg-3 {
@@ -85,7 +64,8 @@ h3 {
   color: #111;
 }
 
-@media only screen and (max-device-width: 1024px) {
+
+@media only screen and (max-device-width: 900px) {
     .bgimg-1, .bgimg-2, .bgimg-3 {
         background-attachment: scroll;
     }

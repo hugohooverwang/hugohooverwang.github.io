@@ -1,1 +1,1 @@
-#hasheq((doc . (root (h1 "how to play with racket & pollen") "\n")) (metas . #hasheq((here-path . "/Users/aphrodite/Khaos/Yggdrasill/Midgard/Hugo/Frigg/webapps-k/hugohooverwang.github.io/index.html.pm"))))
+#hasheq((doc . (root (h1 "how to play with racket & pollen") "\n")) (metas . #hasheq((here-path . "/Users/aphrodite/Khaos/Yggdrasill/Midgard/Hugo/Frigg/webapps-k/hugohooverwang.github.io/src/index.html.pm"))))

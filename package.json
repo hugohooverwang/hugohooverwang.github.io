@@ -1,0 +1,29 @@
+{
+  "name": "hugohooverwang.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "MathJax.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugohooverwang/hugohooverwang.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hugohooverwang/hugohooverwang.github.io/issues"
+  },
+  "homepage": "https://github.com/hugohooverwang/hugohooverwang.github.io#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0",
+    "gulp": "gulpjs/gulp.git#4.0",
+    "gulp-babel": "^7.0.1",
+    "gulp-sass": "^4.0.1",
+    "shelljs": "^0.8.2"
+  }
+}

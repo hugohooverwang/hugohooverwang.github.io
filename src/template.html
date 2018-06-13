@@ -26,8 +26,13 @@
 
     <div class="parallax-bottom">
         <div class="caption">
-          <span class="border">Hej! Jag är Hugo.</span>
+          <span class="border">Hugos Teknik Anteckningar</span>
         </div>
+    </div>
+
+    <div id="footer" class="footer">
+      <h3>Hugos Teknik Anteckningar</h3>
+      <p>Powered by Racket. Made by Hugo, 2018.</p>
     </div>
 
   </body>

@@ -1,0 +1,35 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.parallax-top {
+    background-image: url('img_parallax-top.jpg');
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-bottom {
+    background-image: url('img_parallax-bottom.png');
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.footer {
+  background-color: black;
+  padding: 15px;
+  font-family: sans-serif;
+  font-size: 17px;
+  color: #FF7F3B;
+  text-align: right;
+
+  h3 {
+    color: #3BB9FF;
+  }
+}
