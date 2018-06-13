@@ -1,0 +1,1 @@
+("6.12" ("e82428001c10c51c63f7faa553023949ba23db12" . "5446897c52b9c6ce9dc021b4a3b345d1ed4d7f40") (collects #"pollen" #"tag.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"date.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"txexpr" #"main.rkt"))
